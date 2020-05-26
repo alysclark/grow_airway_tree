@@ -2,3 +2,4 @@
 *.exnode
 *.exelem
 *.exdata
+.DS_Store
